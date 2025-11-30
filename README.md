@@ -1,4 +1,4 @@
-![termux4all](https://github.com/ShanSuharban/termux4all/assets/95335433/548efab4-9e11-45a7-8e7a-402d584d2174)
+![termux4all](https://github.com/Sreeraj/termux4all/assets/95335433/548efab4-9e11-45a7-8e7a-402d584d2174)
 
 # termux4all - Unlock the Power of Termux on Your Android Phone
 ## Table of Contents
